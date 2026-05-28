@@ -21,7 +21,7 @@ A comparative study of European regulations, using the **2018 British Airways Da
 ---
 
 ## 🎯 Professional Value
-While technical controls (like encryption and firewalls) are vital, these projects demonstrate my competence in **GRC (Governance, Risk, and Compliance)**. Understanding how to align cybersecurity with business goals and EU law is essential for modern security management.
+While technical controls are vital, these projects demonstrate my competence in **GRC (Governance, Risk, and Compliance)**. Understanding how to align cybersecurity with business goals and EU law is essential for modern security management.
 
 ## 📄 Copyright & Usage
 This repository contains academic projects developed for the "Organizational Science and IT Law" course at the University of Pisa. 
